@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
 |  |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0999-regions-cut-by-slashes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0650-2-keys-keyboard](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
 <!---LeetCode Topics End-->
