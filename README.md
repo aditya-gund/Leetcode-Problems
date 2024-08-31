@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0650-2-keys-keyboard](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
 ## Bit Manipulation
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
