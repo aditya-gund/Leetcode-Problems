@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0273-integer-to-english-words](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0273-integer-to-english-words) |
+| [0412-fizz-buzz](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0870-magic-squares-in-grid) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
