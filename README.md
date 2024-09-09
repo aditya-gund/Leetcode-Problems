@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2155-find-missing-observations](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0999-regions-cut-by-slashes) |
+| [2411-spiral-matrix-iv](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -149,10 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0906-walking-robot-simulation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 ## Linked List
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
