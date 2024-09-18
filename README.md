@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0179-largest-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0870-magic-squares-in-grid](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0906-walking-robot-simulation) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0948-sort-an-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0412-fizz-buzz) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0179-largest-number) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
