@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2755-extra-characters-in-a-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2755-extra-characters-in-a-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0650-2-keys-keyboard](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
+| [2755-extra-characters-in-a-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2755-extra-characters-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -209,4 +213,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
