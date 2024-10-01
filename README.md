@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2155-find-missing-observations](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2155-find-missing-observations) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0948-sort-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
