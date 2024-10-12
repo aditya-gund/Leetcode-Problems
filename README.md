@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1923-sentence-similarity-iii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2155-find-missing-observations](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0948-sort-an-array) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Merge Sort
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
