@@ -1,10 +1,7 @@
 class Solution {
-    int[] dp = new int[46];
     public int climbStairs(int n) {
-        if(n==1)
-            return 1;
-        else if(n==2)
-            return 2;
+        int[] dp = new int[46];
+        if(n<=2) return n;
         dp[1]=1;
         dp[2]=2;
         for(int i=3;i<=n;i++){
