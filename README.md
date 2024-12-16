@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0064-minimum-path-sum](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0179-largest-number) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0870-magic-squares-in-grid](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [2411-spiral-matrix-iv](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
