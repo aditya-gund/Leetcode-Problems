@@ -1,46 +1,44 @@
 class Solution {
-    public void nextPermutation(int[] nums) {
-        findNextPermutation(nums, nums.length - 1);
-    }
-    // Recursive function to findout the nextPermutation
-    private boolean findNextPermutation(int[] nums, int index){
-        // base case
-        if(index==0){
-            reverse(nums,0);
-            return true;
-        }
-        //find the next permuation calling the recursive funtion
-        if(nums[index-1]<nums[index]){
-            int swapIndex = findNextLarger(nums, index-1);
-            swap(nums, index-1, swapIndex);
-            reverse(nums,index);
-            return true;
-        }
-        return findNextPermutation(nums,index-1);
-    }
-    private int findNextLarger(int[] nums, int index){
-        int value = nums[index];
-        int nextLargerIndex=index+1;
-         for (int i = index + 1; i < nums.length; i++) {
-            if (nums[i] > value) {
-                nextLargerIndex = i;
-            }
-        }
-
-        return nextLargerIndex;
-    }
-     private void reverse(int[] nums, int start) {
-        int end = nums.length - 1;
+    // Helper function to reverse a portion of the array
+    private void reverse(int[] nums, int start, int end) {
         while (start < end) {
-            swap(nums, start, end);
+            int temp = nums[start];
+            nums[start] = nums[end];
+            nums[end] = temp;
             start++;
             end--;
         }
     }
-     // Swap two elements in the array
-    private void swap(int[] nums, int i, int j) {
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
+
+    public void nextPermutation(int[] nums) {
+        int length = nums.length;
+
+        // Step 1: Find the breakpoint
+        int index = -1;
+        for (int i = length - 2; i >= 0; i--) {
+            if (nums[i] < nums[i + 1]) {
+                index = i;
+                break;
+            }
+        }
+
+        // Step 2: If no breakpoint, reverse the whole array
+        if (index == -1) {
+            reverse(nums, 0, length - 1);
+            return;
+        }
+
+        // Step 3: Find the next larger element to swap with nums[index]
+        for (int i = length - 1; i > index; i--) {
+            if (nums[i] > nums[index]) {
+                int temp = nums[i];
+                nums[i] = nums[index];
+                nums[index] = temp;
+                break;
+            }
+        }
+
+        // Step 4: Reverse the portion after the breakpoint
+        reverse(nums, index + 1, length - 1);
     }
 }
