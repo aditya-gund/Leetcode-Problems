@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Brainteaser
