@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0539-minimum-time-difference](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0539-minimum-time-difference](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0948-sort-an-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0948-sort-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0432-all-oone-data-structure](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0870-magic-squares-in-grid) |
