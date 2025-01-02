@@ -1,18 +1,19 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        int n=nums.length;
-        int[] hash=new int[n+1];
+        long  n=nums.length;
+        long  Sn=(n*(n+1))/2;
+        long  S2n=(n*(n+1)*(2*n+1))/6;
+        long S=0,S2=0;
         for(int i=0;i<n;i++){
-            hash[nums[i]]++;
+            S+=nums[i];
+            S2+=(long)nums[i]*(long)nums[i];
         }
-        int repeat=-1,miss=-1;
-        for(int i=1;i<=n;i++){
-            if(hash[i]==2) repeat=i;
-            else if(hash[i]==0) miss=i;
-            if(repeat !=-1 && miss!=-1){
-                break;
-            }
-        }
-        return new int[] {repeat,miss};
+        long val1=S-Sn;
+        long val2=S2-S2n;
+        val2=val2/val1;
+        long  x= (val1+val2)/2;
+        long  y=x-val1;
+        int[] result = {(int)x, (int)y};
+        return result;
     }
 }
