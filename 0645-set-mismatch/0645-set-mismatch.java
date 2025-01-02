@@ -1,19 +1,18 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        int repeating=0;
-        int missing=0;
         int n=nums.length;
-        for(int i=1;i<=n;i++){
-            int count=0;
-            for(int j=0;j<n;j++){
-                if(nums[j]==i){
-                    count++;
-                }
-            }
-            if(count==2) repeating=i;
-            else if(count==0) missing=i;
+        int[] hash=new int[n+1];
+        for(int i=0;i<n;i++){
+            hash[nums[i]]++;
         }
-        int[] result={repeating,missing};
-        return result;
+        int repeat=-1,miss=-1;
+        for(int i=1;i<=n;i++){
+            if(hash[i]==2) repeat=i;
+            else if(hash[i]==0) miss=i;
+            if(repeat !=-1 && miss!=-1){
+                break;
+            }
+        }
+        return new int[] {repeat,miss};
     }
 }
