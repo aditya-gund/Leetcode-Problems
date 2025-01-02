@@ -1,16 +1,13 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int n=nums.length; // Intializing the length of an array
-        int maximumProduct=Integer.MIN_VALUE;
-        int prefix=1, suffix=1;
-        
-        for(int i=0;i<n;i++){
-            if(prefix==0) prefix=1;
-        if(suffix==0) suffix=1;
-            prefix *=nums[i];
-            suffix *=nums[n-i-1];
-            maximumProduct=Math.max(maximumProduct, Math.max(prefix,suffix));
+        int prod1=nums[0], prod2=nums[0], result=nums[0];
+        int n=nums.length;
+        for(int i=1;i<n;i++){
+            int temp=Math.max(nums[i],Math.max(prod1*nums[i],prod2*nums[i]));
+            prod2=Math.min(nums[i],Math.min(prod1*nums[i],prod2*nums[i]));
+            prod1=temp;
+            result=Math.max(result,prod1);
         }
-        return maximumProduct;
+        return result;
     }
 }
