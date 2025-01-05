@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 | [2358-number-of-ways-to-split-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
+| [2465-shifting-letters-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1923-sentence-similarity-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2465-shifting-letters-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2755-extra-characters-in-a-string) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Brainteaser
