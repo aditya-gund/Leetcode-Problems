@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0179-largest-number) |
+| [0219-contains-duplicate-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0322-coin-change) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0133-clone-graph](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0219-contains-duplicate-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0432-all-oone-data-structure](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0567-permutation-in-string) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 ## Graph
 |  |
