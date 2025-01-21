@@ -16,7 +16,7 @@
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> ans = new LinkedList<>();
-        dfs(ans, root);
+        dfs(ans,root);
         return ans;
     }
     private void dfs(List<Integer> ans, TreeNode root){
