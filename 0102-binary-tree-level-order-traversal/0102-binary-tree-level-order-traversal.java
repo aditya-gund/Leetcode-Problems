@@ -21,10 +21,10 @@ class Solution {
         queue.add(root);
         while(!queue.isEmpty()){
             int levelSize=queue.size();
-           List<Integer> currLevel = new LinkedList<>();
+            List<Integer> currLevel = new LinkedList<>();
             for(int i=0;i<levelSize;i++){
-                 TreeNode node = queue.poll();
-                 currLevel.add(node.val);
+                TreeNode node = queue.poll();
+                currLevel.add(node.val);
                 if(node.left!=null) queue.add(node.left);
                 if(node.right!=null) queue.add(node.right);
             }
