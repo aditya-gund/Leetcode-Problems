@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1876-map-of-highest-peak](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1923-sentence-similarity-iii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0870-magic-squares-in-grid](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0999-regions-cut-by-slashes) |
+| [1876-map-of-highest-peak](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2145-grid-game) |
 | [2411-spiral-matrix-iv](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2685-first-completely-painted-row-or-column](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2685-first-completely-painted-row-or-column) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1484-linked-list-in-binary-tree) |
+| [1876-map-of-highest-peak](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1876-map-of-highest-peak) |
 ## Union Find
 |  |
 | ------- |
