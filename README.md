@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0978-valid-mountain-array) |
 | [0999-regions-cut-by-slashes](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1256-rank-transform-of-an-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
+| [1396-count-servers-that-communicate](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0948-sort-an-array) |
+| [1396-count-servers-that-communicate](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0870-magic-squares-in-grid](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0999-regions-cut-by-slashes) |
+| [1396-count-servers-that-communicate](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2145-grid-game) |
 | [2411-spiral-matrix-iv](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0999-regions-cut-by-slashes](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0999-regions-cut-by-slashes) |
+| [1396-count-servers-that-communicate](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -265,12 +269,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0999-regions-cut-by-slashes) |
+| [1396-count-servers-that-communicate](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1876-map-of-highest-peak) |
 ## Union Find
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0999-regions-cut-by-slashes) |
+| [1396-count-servers-that-communicate](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 ## Dynamic Programming
 |  |
 | ------- |
