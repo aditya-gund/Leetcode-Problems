@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1484-linked-list-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Breadth-First Search
 |  |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1484-linked-list-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1876-map-of-highest-peak) |
 ## Union Find
 |  |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0133-clone-graph) |
 | [0820-find-eventual-safe-states](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## String Matching
 |  |
@@ -452,5 +455,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
