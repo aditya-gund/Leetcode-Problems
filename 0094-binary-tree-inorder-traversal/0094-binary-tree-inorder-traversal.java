@@ -21,8 +21,8 @@ class Solution {
     }
     private void dfs(List<Integer> ans, TreeNode root){
         if(root==null) return;
-        dfs(ans,root.left);
+        dfs(ans, root.left);
         ans.add(root.val);
-        dfs(ans,root.right);
+        dfs(ans, root.right);
     }
 }
