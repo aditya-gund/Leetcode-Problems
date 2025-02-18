@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2509-minimize-xor) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3447-clear-digits) |
 ## Tree
@@ -534,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0090-subsets-ii) |
 | [1160-letter-tile-possibilities](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Data Stream
 |  |
