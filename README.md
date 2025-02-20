@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2107-find-unique-binary-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2155-find-missing-observations) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2107-find-unique-binary-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Data Stream
