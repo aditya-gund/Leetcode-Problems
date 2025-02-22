@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1502-construct-k-palindrome-strings) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0999-regions-cut-by-slashes) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1484-linked-list-in-binary-tree) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Memoization
