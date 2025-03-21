@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2155-find-missing-observations) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2411-spiral-matrix-iv) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2434-design-a-number-container-system](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2107-find-unique-binary-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -584,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Backtracking
 |  |
