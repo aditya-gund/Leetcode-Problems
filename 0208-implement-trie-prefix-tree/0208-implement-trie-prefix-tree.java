@@ -1,6 +1,6 @@
 class Trie {
-    class Node {
-        Node links[] = new Node[26];
+    class Node{
+        Node[] links = new Node[26];
         boolean flag=false;
         boolean containsKey(char ch){
             return links[ch-'a']!=null;
@@ -17,30 +17,31 @@ class Trie {
         boolean isEnd(){
             return flag;
         }
- }
-    private Node root;
+    }
+     private Node root;
     public Trie() {
-        root = new Node();        
+         root = new Node();
+        
     }
     
     public void insert(String word) {
-        Node node = root;
+        Node node=root;
         for(int i=0;i<word.length();i++){
             if(!node.containsKey(word.charAt(i))){
                 node.put(word.charAt(i), new Node());
             }
-                node = node.get(word.charAt(i));
+            node = node.get(word.charAt(i));
         }
         node.setEnd();
     }
     
     public boolean search(String word) {
-        Node node = root;
+        Node node=root;
         for(int i=0;i<word.length();i++){
-         if(!node.containsKey(word.charAt(i))){
-            return false;
-         }
-         node=node.get(word.charAt(i));   
+            if(!node.containsKey(word.charAt(i))){
+                return false;
+            }
+            node = node.get(word.charAt(i));
         }
         return node.isEnd();
     }
