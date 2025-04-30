@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1396-count-servers-that-communicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
