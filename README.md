@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0650-2-keys-keyboard) |
+| [0806-domino-and-tromino-tiling](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1013-fibonacci-number) |
