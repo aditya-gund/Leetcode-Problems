@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0064-minimum-path-sum](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0229-majority-element-ii) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0344-reverse-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0567-permutation-in-string) |
