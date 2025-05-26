@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2448-count-number-of-bad-pairs](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2107-find-unique-binary-string) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Simulation
 |  |
 | ------- |
@@ -664,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -694,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1558-course-schedule-iv) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
