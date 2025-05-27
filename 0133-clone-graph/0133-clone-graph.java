@@ -22,19 +22,16 @@ class Solution {
     public Node cloneGraph(Node node) {
         return dfs(node, new HashMap<>());
     }
-    // Implementation of the DFS Methos using HashMap
     private Node dfs(Node node, Map<Node,Node> visited){
-        // Base condition
-        if(node == null) return null;
-        // Check if node is visited or not 
+        if(node==null) return null;
         if(visited.containsKey(node)) return visited.get(node);
-        // Intialize the Clone Node object
-        Node clone = new Node(node.val);
-        // Insert the Original node and clone Node into the map
-        visited.put(node,clone);
+         Node clone = new Node(node.val);
+            visited.put(node, clone);
         for(Node neighbor: node.neighbors){
-                clone.neighbors.add(dfs(neighbor,visited));
-        }
-        return clone;
+    clone.neighbors.add(dfs(neighbor, visited));
+    
     }
+    
+    return clone;
+}   
 }
