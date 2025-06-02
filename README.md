@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0090-subsets-ii) |
+| [0135-candy](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0605-can-place-flowers) |
