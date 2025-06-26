@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0539-minimum-time-difference](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
 | [0645-set-mismatch](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0645-set-mismatch) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0645-set-mismatch) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0731-my-calendar-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0731-my-calendar-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0268-missing-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0539-minimum-time-difference) |
@@ -515,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [1435-xor-queries-of-a-subarray](https://github.com/aditya-gund/Leetcode-Problems/tree/master/1435-xor-queries-of-a-subarray) |
