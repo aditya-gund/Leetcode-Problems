@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0179-largest-number) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
