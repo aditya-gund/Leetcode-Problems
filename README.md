@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0064-minimum-path-sum](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0870-magic-squares-in-grid) |
