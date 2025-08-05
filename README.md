@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3447-clear-digits) |
+| [3790-fruits-into-baskets-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -702,11 +705,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0731-my-calendar-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/0731-my-calendar-ii) |
 | [2434-design-a-number-container-system](https://github.com/aditya-gund/Leetcode-Problems/tree/master/2434-design-a-number-container-system) |
+| [3790-fruits-into-baskets-ii](https://github.com/aditya-gund/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Queue
 |  |
 | ------- |
